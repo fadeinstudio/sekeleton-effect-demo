@@ -29,6 +29,10 @@
   }
 }
 
+.sekeleton.loading {
+  width: fit-content;
+}
+
 .sekeleton img {
   visibility: hidden;
 }
